@@ -6,10 +6,10 @@ For this project, I worked to understand the results of an A/B test run by an e-
 This data set contains information about 294,478 the conducted A-B-Test, including user ratings and revenue.
 
 ## Variables ab_data.csv:
-user_id
-timestamp
-group
-landing_page
+user_id,
+timestamp,
+group,
+landing_page,
 converted
 
 ## Variables countries.csv:
