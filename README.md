@@ -13,8 +13,9 @@ landing_page,
 converted
 
 ## Variables countries.csv:
-user_id
+user_id,
 country
-Files
+
+# Files
 ab_data.csv
 countries.csv
